@@ -6,7 +6,7 @@ const Header = () => {
           {/* SKYK Logo */}
           <div className="flex items-center space-x-4">
             <div className="pixel-logo">
-              <img src="/src/assets/skyk.jpg" alt="SKYK Logo" />
+              <img src="/skyk.jpg" alt="SKYK Logo" />
             </div>
             <div>
               <div className="text-xl font-bold pixel-font gradient-text">

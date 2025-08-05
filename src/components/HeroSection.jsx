@@ -6,7 +6,7 @@ const HeroSection = () => {
           {/* SKYK Image - Perfectly centered */}
           <div className="mb-12 flex justify-center">
             <img 
-              src="/src/assets/skyk.jpg" 
+              src="/skyk.jpg" 
               alt="SKYK Character" 
               className="w-64 h-64 md:w-80 md:h-80 pixel-art"
             />

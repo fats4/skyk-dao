@@ -21,7 +21,7 @@
     position: relative;
   }
 
-  /* Background menggunakan gambar screenshot yang Anda kirim */
+
   #root::before {
     content: '';
     position: fixed;
@@ -29,8 +29,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    /* Ganti dengan path gambar screenshot Anda */
-    background-image: url('./assets/hero-background.jpg');
+    background-image: url('/hero-background.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
